@@ -1,0 +1,19 @@
+{
+  "name": "lore",
+  "version": "0.0.0",
+  "description": "An n0d3 bot",
+  "homepage": "https://github.com/punkave/lore",
+  "author" : "P'unk Ave <team@punkave.com>",
+  "contributors": [
+    "Gabriel Farrell <g@grrawr.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/punkave/lore.git"
+  },
+  "main": "lore.js",
+  "dependencies": {
+    "n0d3": "0.0.2",
+    "n0d3-ping": "0.0.2"
+  }
+}
