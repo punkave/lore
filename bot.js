@@ -1,6 +1,7 @@
 var bot = require('n0d3')();
 
 bot.use(require('n0d3-ping'));
+bot.use(require('n0d3-heroku'));
 
 bot.join({
   campfire: {
